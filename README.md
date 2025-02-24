@@ -7,6 +7,3 @@ A simple command-line To-Do List application in Python.
 ✅ View tasks  
 ✅ Mark tasks as completed  
 ✅ Remove tasks  
-
-## Installation
-1. Clone the repository:
